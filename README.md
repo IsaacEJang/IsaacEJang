@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently specializing in the cloud technologies (Azure)<br>🤝 I’m looking for help with a good open source project<br>🌱 I’m currently studying for AZ204 and taking boot.dev courses CI/CD, docker, kubernetes<br>💬 Ask me about MSSA (Microsoft Software and Systems Academy)! MSSA is for service members looking to transition into the tech industry<br>⚡ Hobbies: Running, Hiking and Reading
+🔭 I’m currently specializing in the cloud technologies (Azure)<br>🤝 I’m looking for help with a good cloud project<br>🌱 I’m currently studying for AZ204 and taking boot.dev courses CI/CD, docker, kubernetes<br>💬 Ask me about MSSA (Microsoft Software and Systems Academy)! MSSA is for service members looking to transition into the tech industry<br>⚡ Hobbies: Running, Hiking and Reading
 
 
 ## 🌐 Socials:
